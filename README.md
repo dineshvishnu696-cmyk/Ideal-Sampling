@@ -1,6 +1,6 @@
 # Ideal, Natural, & Flat-top -Sampling
-## NAME: praveen s
-## REG NO: 212223060207
+## NAME: DINESH S
+## REG NO: 212224060068
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
